@@ -1,0 +1,32 @@
+RIFT WALKERS ASSET LICENSE
+Version 1.0
+
+Copyright (c) 2026 Micah Barnhart
+
+All rights reserved.
+
+The images, artwork, graphics, icons, logos, diagrams, and any other visual assets contained in this repository (“Assets”) are the exclusive property of the copyright holder.
+
+You MAY NOT:
+- Use the Assets for any purpose without express written permission.
+- Copy, modify, reproduce, or distribute the Assets.
+- Upload, mirror, or host the Assets elsewhere.
+- Use the Assets in commercial or non-commercial projects.
+- Incorporate the Assets into derivative works, games, publications, or digital tools.
+
+You MAY:
+- View the Assets directly from this repository for personal reference only.
+
+No rights are granted by default.  
+Permission must be obtained directly from the copyright holder (Micah Barnhart) for any use beyond viewing.
+
+Unauthorized use of the Assets is strictly prohibited.
+
+INDEMNIFICATION:
+By accessing or attempting to use the Assets in any way, you agree to indemnify, defend, and hold harmless the copyright holder (Micah Barnhart) from and against any and all claims, damages, liabilities, losses, costs, or expenses (including reasonable attorney’s fees) arising out of or related to:
+- Your unauthorized use of the Assets,
+- Your violation of this license,
+- Any distribution, reproduction, or modification of the Assets without permission,
+- Any third-party claims resulting from your actions involving the Assets.
+
+For licensing inquiries or permission requests, contact the copyright holder.
